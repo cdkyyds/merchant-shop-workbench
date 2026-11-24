@@ -1,0 +1,6 @@
+{
+  "zzbToken": "zzb_在这里填小尊宝设备凭证",
+  "fyToken": "在这里填飞影ApiKey",
+  "zzbUrl": "https://jingflowapi.zzbtool.com/zzbrelay/agent-relay/mcp",
+  "fyUrl": "https://fyaimcp.feiyingai.com/mcp"
+}

@@ -1,0 +1,5 @@
+﻿config.json
+worklogs/
+*.log
+.DS_Store
+Thumbs.db
